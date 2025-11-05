@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/421456077364849287/9d3343f0d1ec4acba93188126cf906c6/artifacts
+end_time: 1762321971817
+entry_point_name: ''
+experiment_id: '421456077364849287'
+lifecycle_stage: active
+run_id: 9d3343f0d1ec4acba93188126cf906c6
+run_name: redolent-rook-558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762321963218
+status: 3
+tags: []
+user_id: a.nimse

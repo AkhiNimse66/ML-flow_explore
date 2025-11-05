@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/a.nimse/Desktop/ML-flow_explore/mlruns/368038436425324185/75dddf3c992c4e1db571c6328aae1cee/artifacts
+end_time: 1762325479904
+entry_point_name: ''
+experiment_id: '368038436425324185'
+lifecycle_stage: active
+run_id: 75dddf3c992c4e1db571c6328aae1cee
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762325476435
+status: 3
+tags: []
+user_id: a.nimse

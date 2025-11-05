@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7380d0dad64f4793b4269f25b4dfba17/artifacts
+end_time: 1762320430029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7380d0dad64f4793b4269f25b4dfba17
+run_name: amazing-foal-997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762320429517
+status: 3
+tags: []
+user_id: a.nimse

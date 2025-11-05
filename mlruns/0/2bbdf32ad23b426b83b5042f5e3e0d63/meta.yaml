@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2bbdf32ad23b426b83b5042f5e3e0d63/artifacts
+end_time: 1762319676787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bbdf32ad23b426b83b5042f5e3e0d63
+run_name: fortunate-doe-181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762319676090
+status: 3
+tags: []
+user_id: a.nimse

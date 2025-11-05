@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/a.nimse/Desktop/ML-flow_explore/mlruns/360929071284437411/8af2f3ec721748a1af6c062560827960/artifacts
+end_time: 1762325194760
+entry_point_name: ''
+experiment_id: '360929071284437411'
+lifecycle_stage: active
+run_id: 8af2f3ec721748a1af6c062560827960
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762325190504
+status: 3
+tags: []
+user_id: a.nimse

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/a.nimse/Desktop/ML-flow_explore/mlruns/360929071284437411/23faeb01124b46de9932c7088739c64f/artifacts
+end_time: 1762325200738
+entry_point_name: ''
+experiment_id: '360929071284437411'
+lifecycle_stage: active
+run_id: 23faeb01124b46de9932c7088739c64f
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762325197920
+status: 3
+tags: []
+user_id: a.nimse

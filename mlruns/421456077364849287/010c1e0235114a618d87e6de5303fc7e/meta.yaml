@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/421456077364849287/010c1e0235114a618d87e6de5303fc7e/artifacts
+end_time: 1762322372129
+entry_point_name: ''
+experiment_id: '421456077364849287'
+lifecycle_stage: active
+run_id: 010c1e0235114a618d87e6de5303fc7e
+run_name: nimble-gnu-266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762322366586
+status: 3
+tags: []
+user_id: a.nimse

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/421456077364849287/924adf4618c34e4ca0ed0f030d8a56e5/artifacts
+end_time: 1762321747169
+entry_point_name: ''
+experiment_id: '421456077364849287'
+lifecycle_stage: active
+run_id: 924adf4618c34e4ca0ed0f030d8a56e5
+run_name: masked-skink-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762321741340
+status: 3
+tags: []
+user_id: a.nimse

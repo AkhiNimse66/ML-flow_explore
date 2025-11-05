@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/106043876011342595/d296157b998c404ab5a65dfd33971564/artifacts
+end_time: 1762320769049
+entry_point_name: ''
+experiment_id: '106043876011342595'
+lifecycle_stage: active
+run_id: d296157b998c404ab5a65dfd33971564
+run_name: stately-croc-674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762320768486
+status: 3
+tags: []
+user_id: a.nimse

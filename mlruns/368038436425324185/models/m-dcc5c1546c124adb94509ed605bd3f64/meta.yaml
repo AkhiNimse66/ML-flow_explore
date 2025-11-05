@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/a.nimse/Desktop/ML-flow_explore/mlruns/368038436425324185/models/m-dcc5c1546c124adb94509ed605bd3f64/artifacts
+creation_timestamp: 1762325476853
+experiment_id: '368038436425324185'
+last_updated_timestamp: 1762325479889
+model_id: m-dcc5c1546c124adb94509ed605bd3f64
+model_type: null
+name: model
+source_run_id: 75dddf3c992c4e1db571c6328aae1cee
+status: 2
+status_message: null

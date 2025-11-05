@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/421456077364849287/c4b667dd98e54f598508a035eb00fee4/artifacts
+end_time: 1762320585564
+entry_point_name: ''
+experiment_id: '421456077364849287'
+lifecycle_stage: active
+run_id: c4b667dd98e54f598508a035eb00fee4
+run_name: thundering-cod-990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762320585053
+status: 3
+tags: []
+user_id: a.nimse

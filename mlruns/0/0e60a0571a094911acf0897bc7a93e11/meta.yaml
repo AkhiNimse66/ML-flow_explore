@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0e60a0571a094911acf0897bc7a93e11/artifacts
+end_time: 1762318918598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e60a0571a094911acf0897bc7a93e11
+run_name: beautiful-horse-495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762318918422
+status: 3
+tags: []
+user_id: a.nimse

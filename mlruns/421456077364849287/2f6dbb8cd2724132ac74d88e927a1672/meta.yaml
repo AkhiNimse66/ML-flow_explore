@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/421456077364849287/2f6dbb8cd2724132ac74d88e927a1672/artifacts
+end_time: 1762322538058
+entry_point_name: ''
+experiment_id: '421456077364849287'
+lifecycle_stage: active
+run_id: 2f6dbb8cd2724132ac74d88e927a1672
+run_name: languid-pug-496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762322532636
+status: 3
+tags: []
+user_id: a.nimse
